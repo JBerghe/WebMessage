@@ -1,0 +1,8 @@
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\WebMessaging\DatabaseHandler\bin\Debug\DatabaseHandler.exe.config
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\WebMessaging\DatabaseHandler\bin\Debug\DatabaseHandler.exe
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\WebMessaging\DatabaseHandler\bin\Debug\DatabaseHandler.pdb
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\WebMessaging\DatabaseHandler\obj\Debug\DatabaseHandler.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\WebMessaging\DatabaseHandler\obj\Debug\DatabaseHandler.exe
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\WebMessaging\DatabaseHandler\obj\Debug\DatabaseHandler.pdb
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\WebMessaging\DatabaseHandler\bin\Debug\Messages.mdf
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\WebMessaging\DatabaseHandler\bin\Debug\Messages_log.ldf

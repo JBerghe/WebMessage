@@ -1,0 +1,10 @@
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\WebMessaging\MessageConsole\bin\Debug\MessageConsole.exe.config
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\WebMessaging\MessageConsole\bin\Debug\MessageConsole.exe
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\WebMessaging\MessageConsole\bin\Debug\MessageConsole.pdb
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\WebMessaging\MessageConsole\bin\Debug\DatabaseHandler.exe
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\WebMessaging\MessageConsole\bin\Debug\DatabaseHandler.pdb
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\WebMessaging\MessageConsole\obj\Debug\MessageConsole.csprojResolveAssemblyReference.cache
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\WebMessaging\MessageConsole\obj\Debug\MessageConsole.exe
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\WebMessaging\MessageConsole\obj\Debug\MessageConsole.pdb
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\WebMessaging\MessageConsole\bin\Debug\Messages.mdf
+C:\Users\Joel\Documents\Visual Studio 2015\Projects\WebMessaging\MessageConsole\bin\Debug\Messages_log.ldf
